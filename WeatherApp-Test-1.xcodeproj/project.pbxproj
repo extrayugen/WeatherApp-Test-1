@@ -58,8 +58,7 @@
 		1F2BCCA02B42D2C500DC26CC /* WeatherApp-Test-1 */ = {
 			isa = PBXGroup;
 			children = (
-				1F2BCCA12B42D2C500DC26CC /* AppDelegate.swift */,
-				1F2BCCA32B42D2C500DC26CC /* SceneDelegate.swift */,
+				1F2BCCBE2B4304C600DC26CC /* Supports */,
 				1F2BCCA52B42D2C500DC26CC /* ViewController.swift */,
 				1F2BCCA72B42D2C500DC26CC /* Main.storyboard */,
 				1F2BCCAD2B42D2C600DC26CC /* Assets.xcassets */,
@@ -68,6 +67,15 @@
 				1F2BCCAA2B42D2C500DC26CC /* WeatherApp_Test_1.xcdatamodeld */,
 			);
 			path = "WeatherApp-Test-1";
+			sourceTree = "<group>";
+		};
+		1F2BCCBE2B4304C600DC26CC /* Supports */ = {
+			isa = PBXGroup;
+			children = (
+				1F2BCCA12B42D2C500DC26CC /* AppDelegate.swift */,
+				1F2BCCA32B42D2C500DC26CC /* SceneDelegate.swift */,
+			);
+			path = Supports;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
